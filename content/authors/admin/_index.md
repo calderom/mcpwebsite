@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Academic Background
 education:
   courses:
   - course: PhD in Limnology
@@ -49,4 +48,4 @@ title: Maria Calderó Pascual
 #SustainableFuture #Biotechnologist #PhDlife #Lakes #EcologicalStoichiometry 
 #Plankton #CitizenOfTheWorld #MountainLover #Ballet #Horse #Cycling #Family #Friends
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVenglish_MCP_August2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVenglish_MCP_August2021.pdf" "newtab" >}}CV{{< /staticref >}}.
