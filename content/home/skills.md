@@ -16,18 +16,46 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Water chemistry
+  icon: vial
+  icon_pack: fas
+  name: Lab work
+- description: Data analyses
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: R Studio
+- description: Reference manager
+  icon: zotero
+  icon_pack: ai
+  name: Zotero
+- description: Driving license 
+  icon: car-side
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Own car
+- description: River forest reforestation
+  icon: tree
   icon_pack: fas
-  name: Photography
+  name: Home-town 
+- description: Water in Kabresthali 
+  icon: globe-asia
+  icon_pack: fas
+  name: Nepal 
+- description: Hiking, cycling, running
+  icon: mountain
+  icon_pack: fas
+  name: Nature 
+- description: Riding, competing
+  icon: horse
+  icon_pack: fas
+  name: Horses
+- description: Ballet, pilates, yoga
+  icon: heartbeat
+  icon_pack: fas
+  name: Dance
+  
+  
+
+
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
