@@ -27,7 +27,7 @@ social:
   icon_pack: fas
   link: /#contact
 - display:
-    header: true
+    header: false
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
@@ -42,10 +42,11 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/maria-calder%C3%B3-pascual-75864492/
 superuser: true
-title: Maria Calderó Pascual
+title: 
 ---
 
-#SustainableFuture #Biotechnologist #PhDlife #Lakes #EcologicalStoichiometry 
-#Plankton #CitizenOfTheWorld #MountainLover #Ballet #Horse #Cycling #Family #Friends
+#SustainableFuture #Biotechnologist #PhDlife #WaterQuality 
+#EcologicalStoichiometry #Plankton #CitizenOfTheWorld 
+#MountainLover #Ballet #HorseRiding #Cycling 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVenglish_MCP_August2021.pdf" "newtab" >}}CV{{< /staticref >}}.

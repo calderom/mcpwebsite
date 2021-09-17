@@ -5,7 +5,7 @@ widget: hero
 headless: true
 weight: 10
 title: Hugo Academic Starter
-hero_media: hero-academic.png
+hero_media: main-profile.jpg
 cta:
   label: '**Get Started**'
   url: https://wowchemy.com/templates/
@@ -19,7 +19,7 @@ design:
   background:
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
-    text_color_light: true
+    text_color_light: false
 advanced:
   css_class: fullscreen
 ---

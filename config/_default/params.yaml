@@ -39,11 +39,11 @@ appointment_url:
 contact_links:
   - icon: twitter 
     icon_pack: fab
-    name: DM Me
+    name: Follow & DM me 
     link: 'https://twitter.com/CalderoPM'
   - icon: linkedin
     icon_pack: fab
-    name: Skype Me
+    name: Follow & DM me
     link: 'https://www.linkedin.com/in/maria-calder%C3%B3-pascual-75864492/'
   - icon: 
     icon_pack: 
@@ -58,11 +58,11 @@ contact_links:
 
 main_menu:
   enable: true
-  align: l
+  align: c
   show_logo: true
   show_language: false
-  show_day_night: true
-  show_search: true
+  show_day_night: false
+  show_search: false
   highlight_active_link: true
 
 # Localization
