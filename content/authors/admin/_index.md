@@ -17,6 +17,7 @@ interests:
 - Limnology
 - Plankton
 - Water quality
+- Water treatment
 - Nature conservation
 organizations:
 - name: Dundalk Institute of Technology
