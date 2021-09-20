@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_end: "2021-07-15"
+  date_start: "2021-01-01"
+  description: Reflexions, organization, and final choreography 
+  organization: Dansa Elena
+  organization_url: https://dansaelena.cat/festivals/
+  title: Dance Festival “En quin món vols viure?”
+  url: ""
+- certificate_url: 
   date_end: ""
   date_start: "2011-04-10"
   description: Advanced I  
