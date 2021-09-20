@@ -48,6 +48,6 @@ title: Maria Calderó Pascual
 
 ...and what counts is the effort of the day-to-day...
 
-#SustainableFuture #Biotechnologist #PhDlife #WaterQuality #EcologicalStoichiometry #Plankton #CitizenOfTheWorld #Organised #Responsible #Multidisciplinary #Networking #TeamWork #Commited #Perfectionist #Initiative #Competent #Punctual #Creative #Curious #Natural #MountainLover #Ballet #HorseRiding #Cycling #Hiking #F&F  
+#SustainableFuture #Biotechnologist #PhDlife #WaterQuality #EcologicalStoichiometry #Plankton #CitizenOfTheWorld #Organised #Responsible #Multidisciplinary #Networking #TeamWork #Commited #Perfectionist #Initiative #Competent #Punctual #Creative #Curious #Natural #MountainLover #Ballet #HorseRiding #Cycling #Hiking #F&F #Peace  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVenglish_MCP_20.09.2021.pdf" "newtab" >}}CV{{< /staticref >}}.
