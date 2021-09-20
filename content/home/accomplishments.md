@@ -23,29 +23,45 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2011-04-10"
+  description: Advanced I  
+  organization: Royal Academy of Dance
+  organization_url: https://www.royalacademyofdance.org/exams/specifications-and-syllabus-updates/
+  title: Ballet 
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "1993-07-11"
+  description: Native speaker - Bilingual 
+  organization: 
+  organization_url: 
+  title: Catalan & Spanish
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2011-06-10"
+  description: B2/FCE 
+  organization: Cambridge
+  organization_url: https://www.cambridgeenglish.org/exams-and-tests/first/
+  title: English 
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2007-06-10"
+  description: B1
+  organization: DELF
+  organization_url: https://www.delf-dalf.es/
+  title: French 
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2014-06-10"
+  description: B1
+  organization: UdG Service of Languages
+  organization_url: https://www.udg.edu/ca/slm/oferta-de-cursos
+  title: German
   url: ""
 
 design:

@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 20
   - name: Publications
-    url: '#posts'
+    url: '#publications'
     weight: 30
   - name: Scholarships
     url: '#projects'
@@ -20,8 +20,11 @@ main:
     url: '#featured'
     weight: 60
   - name: Training
-    url: courses/
+    url: '#posts'
     weight: 70
+  - name: Gallery
+    url: '#gallery'
+    weight: 80
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 90

@@ -52,7 +52,7 @@ experience:
         * Water chemistry laboratory work
         * Microscope planktonic work
         * Experimental design
-        * Thesis writing
+        * Write thesis
         * Manuscripts publication
   
   - title: AQUACOSM Transnational Access

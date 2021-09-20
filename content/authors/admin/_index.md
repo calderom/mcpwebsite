@@ -43,11 +43,11 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/maria-calder%C3%B3-pascual-75864492/
 superuser: true
-title: 
+title: Maria Calderó Pascual
 ---
 
-#SustainableFuture #Biotechnologist #PhDlife #WaterQuality 
-#EcologicalStoichiometry #Plankton #CitizenOfTheWorld 
-#MountainLover #Ballet #HorseRiding #Cycling 
+...and what counts is the effort of the day-to-day...
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVenglish_MCP_August2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+#SustainableFuture #Biotechnologist #PhDlife #WaterQuality #EcologicalStoichiometry #Plankton #CitizenOfTheWorld #Organised #Responsible #Multidisciplinary #Networking #TeamWork #Commited #Perfectionist #Initiative #Competent #Punctual #Creative #Curious #Natural #MountainLover #Ballet #HorseRiding #Cycling #Hiking #F&F  
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVenglish_MCP_20.09.2021.pdf" "newtab" >}}CV{{< /staticref >}}.

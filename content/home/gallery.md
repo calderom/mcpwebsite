@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 66
+weight: 110
 
 title: Gallery
 subtitle:
@@ -16,4 +16,4 @@ design:
   columns: '2'
 ---
 
-{{< gallery album="themes" >}}
+{{< gallery album="maria" >}}
