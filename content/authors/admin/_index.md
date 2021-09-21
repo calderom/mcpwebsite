@@ -50,4 +50,4 @@ title: Maria Calderó Pascual
 
 #SustainableFuture #Biotechnologist #PhDlife #WaterQuality #EcologicalStoichiometry #Plankton #CitizenOfTheWorld #Organised #Responsible #Multidisciplinary #Networking #TeamWork #Commited #Perfectionist #Initiative #Competent #Punctual #Creative #Curious #Natural #MountainLover #Ballet #HorseRiding #Cycling #Hiking #F&F #Peace  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVenglish_MCP_20.09.2021.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVenglish_MCP_21.09.2021.pdf" "newtab" >}}CV{{< /staticref >}}.
